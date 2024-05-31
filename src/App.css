@@ -1,0 +1,13 @@
+.nav{
+    padding: 2rem;
+}
+
+.icon{
+ 
+    font-size: 8rem;
+}
+
+.contacto-sub{
+    display: flex;
+    justify-content: center;
+}
